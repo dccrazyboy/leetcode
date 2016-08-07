@@ -7,7 +7,6 @@ import java.util.HashMap;
  */
 public class Solution {
     public boolean isAnagram(String s, String t) {
-        if ()
         HashMap<String, Integer> target = new HashMap<String, Integer>();
         for (char c: s.toCharArray()) {
             String c_str = String.valueOf(c);
