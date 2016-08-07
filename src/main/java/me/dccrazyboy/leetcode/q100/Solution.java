@@ -1,4 +1,4 @@
-package me.dccrazyboy.leetcode.q1;
+package me.dccrazyboy.leetcode.q100;
 
 import me.dccrazyboy.leetcode.utils.TreeNode;
 

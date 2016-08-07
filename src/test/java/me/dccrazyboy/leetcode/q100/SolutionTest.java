@@ -1,8 +1,6 @@
-package me.dccrazyboy.leetcode.q1;
+package me.dccrazyboy.leetcode.q100;
 
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by dongchao on 16/8/7.
